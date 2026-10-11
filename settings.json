@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "rajuparmar.aternos.me:33554",
+    "port": 33554,
     "version": "",
     "try-creative": false
   },
